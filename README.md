@@ -1,3 +1,4 @@
+## ***(This entire repository is written in Spanish)***
 # Registro y Análisis de Precipitaciones
 
 Este proyecto se propone ofrecer información relacionada a las lluvias ocurridas en la ciudad de Corral de Bustos - Ifflinger, provincia de Córdoba, Argentina.
